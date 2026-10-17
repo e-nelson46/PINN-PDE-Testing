@@ -8,4 +8,5 @@ duu = torch.autograd.grad(du, x, create_graph=True,  grad_outputs=torch.ones_lik
 
 print(f"Original {u}")
 print(f"1st Deriv {du}")
+
 print(f"2nd Deriv {duu}")
