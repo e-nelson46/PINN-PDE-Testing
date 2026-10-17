@@ -3,5 +3,5 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.\Claude Materials/
+Claude Materials/
 
